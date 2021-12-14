@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SaJid777/node.js-practice-unit-testing-using-mocha-chai/issues"
+    "url": "https://github.com/SaJid777/node.js-practice-unit-testing-using-mocha-chai/issues" 
   },
   "homepage": "https://github.com/SaJid777/node.js-practice-unit-testing-using-mocha-chai#readme",
   "dependencies": {
