@@ -3,5 +3,5 @@ const userList = (req,res) => {
 }
 
 module.exports = {
-    userList
+    userList 
 }
