@@ -1,5 +1,5 @@
 var assert = require('assert');
-describe('Array', function() {
+describe('Array check with Mocha', function() {
   describe('#indexOf()', function() {
     it('user get api', function() {
       assert.equal([1, 2, 3].indexOf(4), -1);
